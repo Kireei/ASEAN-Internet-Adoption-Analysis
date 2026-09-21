@@ -54,6 +54,12 @@ In this project, I analyze Internet Usage and Population across ASEAN countries 
 
 ## Repository Structure
 
-- `README.md` — Overview and key findings of the project.
-- `ASEAN_Internet_Adoption_Analysis.ipynb` — Full data cleaning, analysis, visualization, and interpretation.
-- `data/` — Raw dataset used in the analysis.
+asean-internet-adoption-analysis/
+│
+├── README.md
+├── ASEAN_Internet_Adoption_Analysis.ipynb
+│
+└── data/
+    └── README.md
+    └── <dataset WDI>.csv
+    
