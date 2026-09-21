@@ -53,7 +53,7 @@ In this project, I analyze Internet Usage and Population across ASEAN countries 
 - The relationship between Population and Internet Usage represents correlation, not causation. Other factors that may affect Internet Usage were not included in this analysis.
 
 ## Repository Structure
-
+```
 asean-internet-adoption-analysis/
 │
 ├── README.md
@@ -62,4 +62,4 @@ asean-internet-adoption-analysis/
 └── data/
     └── README.md
     └── <dataset WDI>.csv
-    
+```    
