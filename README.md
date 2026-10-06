@@ -47,6 +47,7 @@ In this project, I analyze Internet Usage and Population across ASEAN countries 
 - Population and Internet Usage showed a weak negative correlation in 2024 (r = -0.325). This suggests that countries with larger populations tended to have lower Internet Usage in this dataset, although the relationship was weak.
 
    ![Internet Usage in ASEAN Countries 2010 - 2024](images/00_internet_usage_trend.png)
+  ![population vs internet usage](images/04_population_vs_internet_usage.png)
 ## Limitations
 
 - Internet Usage data for Myanmar (2021–2024) and Timor-Leste (2022–2024) were unavailable. Therefore, analyses that required complete data through 2024 used 9 ASEAN countries.
